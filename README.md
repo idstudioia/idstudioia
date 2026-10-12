@@ -6,7 +6,7 @@
 
 **Créateur d'Athéna, une intelligence artificielle qui tourne entièrement sur votre PC.**
 
-[Site d'Athéna](https://athena-ia-locale.netlify.app) · [Télécharger l'alpha](https://github.com/idstudio-athena/athena-local-ia/releases) · [YouTube](https://www.youtube.com/@IDSTUDIO6091) · [Soutenir sur Ko-fi](https://ko-fi.com/idstudioia)
+[Site d'Athéna](https://athena-ia-locale.com) · [Télécharger l'alpha](https://github.com/idstudio-athena/athena-local-ia/releases) · [YouTube](https://www.youtube.com/@IDSTUDIO6091) · [Soutenir sur Ko-fi](https://ko-fi.com/idstudioia)
 
 </div>
 
@@ -17,7 +17,7 @@
 - Une assistante qui tourne **sur votre carte graphique** : la conversation, la mémoire, la voix et un avatar 3D.
 - Vos conversations et vos fichiers **restent sur votre ordinateur**.
 - Chaque réponse dit **d'où elle vient** : mesurée, tirée d'une source, appuyée sur sa mémoire, ou écrite par le modèle seul.
-- L'édition gratuite est en **version alpha** : [elle se télécharge ici](https://github.com/idstudio-athena/athena-local-ia/releases), et vos retours servent à la corriger (formulaire sur le [site](https://athena-ia-locale.netlify.app)).
+- L'édition gratuite est en **version alpha** : [elle se télécharge ici](https://github.com/idstudio-athena/athena-local-ia/releases), et vos retours servent à la corriger (formulaire sur le [site](https://athena-ia-locale.com)).
 
 ### 🎵 ID Studio
 
@@ -28,7 +28,7 @@ Mes albums et créations : [BandLab](https://www.bandlab.com/user903649943441155
 
 | | |
 |---|---|
-| 🌐 Site | https://athena-ia-locale.netlify.app |
+| 🌐 Site | https://athena-ia-locale.com |
 | 📦 Organisation | [@idstudio-athena](https://github.com/idstudio-athena) |
 | ▶️ YouTube | [@IDSTUDIO6091](https://www.youtube.com/@IDSTUDIO6091) |
 | ☕ Soutenir | [ko-fi.com/idstudioia](https://ko-fi.com/idstudioia) |
