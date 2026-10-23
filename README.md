@@ -6,7 +6,7 @@
 
 **Créateur d'Athéna, une intelligence artificielle qui tourne entièrement sur votre PC.**
 
-[Site d'Athéna](https://athena-ia-locale.com) · [Télécharger l'alpha](https://github.com/idstudio-athena/athena-local-ia/releases) · [YouTube](https://www.youtube.com/@IDSTUDIO6091) · [Soutenir sur Ko-fi](https://ko-fi.com/idstudioia)
+[Site d'Athéna](https://athena-ia-locale.com) · [Télécharger l'alpha](https://github.com/idstudio-athena/athena-local-ia/releases) · [YouTube](https://www.youtube.com/@IDStudioIA) · [Soutenir sur Ko-fi](https://ko-fi.com/idstudioia)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### 🎵 ID Studio
 
-Les vidéos d'Athéna et ma musique sont sur la même chaîne : [youtube.com/@IDSTUDIO6091](https://www.youtube.com/@IDSTUDIO6091).
+Les vidéos du projet sont sur la chaîne [ID Studio IA](https://www.youtube.com/@IDStudioIA) ; ma musique reste sur [ID Studio](https://www.youtube.com/@IDSTUDIO6091).
 Mes albums et créations : [BandLab](https://www.bandlab.com/user9036499434411557).
 
 ### 🔗 Liens
@@ -30,7 +30,8 @@ Mes albums et créations : [BandLab](https://www.bandlab.com/user903649943441155
 |---|---|
 | 🌐 Site | https://athena-ia-locale.com |
 | 📦 Organisation | [@idstudio-athena](https://github.com/idstudio-athena) |
-| ▶️ YouTube | [@IDSTUDIO6091](https://www.youtube.com/@IDSTUDIO6091) |
+| ▶️ YouTube (projet) | [@IDStudioIA](https://www.youtube.com/@IDStudioIA) |
+| 🎵 YouTube (musique) | [@IDSTUDIO6091](https://www.youtube.com/@IDSTUDIO6091) |
 | ☕ Soutenir | [ko-fi.com/idstudioia](https://ko-fi.com/idstudioia) |
 
 ---
