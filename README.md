@@ -6,7 +6,7 @@
 
 **Créateur d'Athéna, une intelligence artificielle qui tourne entièrement sur votre PC.**
 
-[Site d'Athéna](https://athena-ia-locale.com) · [Télécharger l'alpha](https://github.com/idstudio-athena/athena-local-ia/releases) · [YouTube](https://www.youtube.com/@IDStudioIA) · [Soutenir sur Ko-fi](https://ko-fi.com/idstudioia)
+[Site d'Athéna](https://athena-ia-locale.com) · [Télécharger l'alpha](https://github.com/idstudio-athena/athena-local-ia/releases) · [YouTube](https://www.youtube.com/@IDStudioIA) · [Discord](https://discord.gg/NquWmqwH6c) · [Soutenir sur Ko-fi](https://ko-fi.com/idstudioia)
 
 </div>
 
@@ -32,6 +32,7 @@ Mes albums et créations : [BandLab](https://www.bandlab.com/user903649943441155
 | 📦 Organisation | [@idstudio-athena](https://github.com/idstudio-athena) |
 | ▶️ YouTube (projet) | [@IDStudioIA](https://www.youtube.com/@IDStudioIA) |
 | 🎵 YouTube (musique) | [@IDSTUDIO6091](https://www.youtube.com/@IDSTUDIO6091) |
+| 💬 Discord | [ID Studio IA](https://discord.gg/NquWmqwH6c) |
 | ☕ Soutenir | [ko-fi.com/idstudioia](https://ko-fi.com/idstudioia) |
 
 ---
